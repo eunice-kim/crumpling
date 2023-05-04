@@ -21,11 +21,3 @@ video, img {
   height:100vmin;
   width:auto;
 }
-
-#title, #fin {
-  width:50vmin;
-}
-
-#video, #still, #fin {
-  display:none;
-}
